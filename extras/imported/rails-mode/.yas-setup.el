@@ -1268,14 +1268,14 @@ are recognized. Stolen from `rinari-mode' more or`' less."
 ;; # as in Snippets/verify - redirect (verify).yasnippet
 ;;                                                                                            =yyas> (yas-unknown)
 ;; 
-;; # as in Snippets/t_rename (tre).yasnippet
-;; meta.rails.migration.change_table                                                          =yyas> (yas-unknown)
-;; 
 ;; # as in Snippets/has_one (ho).yasnippet
 ;; meta.rails.model                                                                           =yyas> (yas-unknown)
 ;; 
 ;; # as in Snippets/if (ERB).yasnippet
 ;; text.html.ruby                                                                             =yyas> (yas-unknown)
+;; 
+;; # as in Snippets/Table column(s) rename.yasnippet
+;; meta.rails.migration.change_table                                                          =yyas> (yas-unknown)
 ;; 
 ;; 
 
